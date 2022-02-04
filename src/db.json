@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "/assets/1.jpg",
+      "name": "Camisa 1",
+      "price": 79.90
+    },
+    {
+      "id": 2,
+      "image": "/assets/2.jpg",
+      "name": "Camisa 2",
+      "price": 109.90
+    },
+    {
+      "id": 4,
+      "image": "/assets/4.jpg",
+      "name": "Camisa 4",
+      "price": 59.90
+    },
+    {
+      "id": 5,
+      "image": "/assets/5.jpg",
+      "name": "Camisa 5",
+      "price": 99.90
+    }
+  ],
+
+  "stock": [{
+    "id": 1,
+    "amount": 8
+  }, {
+    "id": 2,
+    "amount": 2
+  }, {
+    "id": 4,
+    "amount": 4
+  }, {
+    "id": 5,
+    "amount": 1
+  }]
+}
