@@ -5,6 +5,7 @@ Trata-se de um desafio proposto em um dos cursos do bootcamp Inter Frontend Deve
 ![](./public/assets/desktop-preview.png)
 
 - React
+- TypeScript
 - Styled-components
 - JSON Sever
 - Axios
